@@ -1,0 +1,30 @@
+C:\AluraC#\Screen Sound\Screen Sound\bin\Debug\net8.0\appsettings.Development.json
+C:\AluraC#\Screen Sound\Screen Sound\bin\Debug\net8.0\appsettings.json
+C:\AluraC#\Screen Sound\Screen Sound\bin\Debug\net8.0\Screen Sound.staticwebassets.runtime.json
+C:\AluraC#\Screen Sound\Screen Sound\bin\Debug\net8.0\Screen Sound.exe
+C:\AluraC#\Screen Sound\Screen Sound\bin\Debug\net8.0\Screen Sound.deps.json
+C:\AluraC#\Screen Sound\Screen Sound\bin\Debug\net8.0\Screen Sound.runtimeconfig.json
+C:\AluraC#\Screen Sound\Screen Sound\bin\Debug\net8.0\Screen Sound.dll
+C:\AluraC#\Screen Sound\Screen Sound\bin\Debug\net8.0\Screen Sound.pdb
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\Screen Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\Screen Sound.AssemblyInfoInputs.cache
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\Screen Sound.AssemblyInfo.cs
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\Screen Sound.csproj.CoreCompileInputs.cache
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\Screen Sound.MvcApplicationPartsAssemblyInfo.cache
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\Screen Sound.RazorAssemblyInfo.cache
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\Screen Sound.RazorAssemblyInfo.cs
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\staticwebassets.build.json
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\staticwebassets.development.json
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\staticwebassets\msbuild.Screen Sound.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\staticwebassets\msbuild.build.Screen Sound.props
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Screen Sound.props
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Screen Sound.props
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\staticwebassets.pack.json
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\scopedcss\bundle\Screen Sound.styles.css
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\scopedcss\projectbundle\Screen Sound.bundle.scp.css
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\Screen Sound.dll
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\refint\Screen Sound.dll
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\Screen Sound.pdb
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\Screen Sound.genruntimeconfig.cache
+C:\AluraC#\Screen Sound\Screen Sound\obj\Debug\net8.0\ref\Screen Sound.dll

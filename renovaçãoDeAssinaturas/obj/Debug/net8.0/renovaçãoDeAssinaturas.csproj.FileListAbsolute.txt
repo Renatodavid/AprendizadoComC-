@@ -1,0 +1,14 @@
+C:\AluraC#\renovaçãoDeAssinaturas\bin\Debug\net8.0\renovaçãoDeAssinaturas.exe
+C:\AluraC#\renovaçãoDeAssinaturas\bin\Debug\net8.0\renovaçãoDeAssinaturas.deps.json
+C:\AluraC#\renovaçãoDeAssinaturas\bin\Debug\net8.0\renovaçãoDeAssinaturas.runtimeconfig.json
+C:\AluraC#\renovaçãoDeAssinaturas\bin\Debug\net8.0\renovaçãoDeAssinaturas.dll
+C:\AluraC#\renovaçãoDeAssinaturas\bin\Debug\net8.0\renovaçãoDeAssinaturas.pdb
+C:\AluraC#\renovaçãoDeAssinaturas\obj\Debug\net8.0\renovaçãoDeAssinaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraC#\renovaçãoDeAssinaturas\obj\Debug\net8.0\renovaçãoDeAssinaturas.AssemblyInfoInputs.cache
+C:\AluraC#\renovaçãoDeAssinaturas\obj\Debug\net8.0\renovaçãoDeAssinaturas.AssemblyInfo.cs
+C:\AluraC#\renovaçãoDeAssinaturas\obj\Debug\net8.0\renovaçãoDeAssinaturas.csproj.CoreCompileInputs.cache
+C:\AluraC#\renovaçãoDeAssinaturas\obj\Debug\net8.0\renovaçãoDeAssinaturas.dll
+C:\AluraC#\renovaçãoDeAssinaturas\obj\Debug\net8.0\refint\renovaçãoDeAssinaturas.dll
+C:\AluraC#\renovaçãoDeAssinaturas\obj\Debug\net8.0\renovaçãoDeAssinaturas.pdb
+C:\AluraC#\renovaçãoDeAssinaturas\obj\Debug\net8.0\renovaçãoDeAssinaturas.genruntimeconfig.cache
+C:\AluraC#\renovaçãoDeAssinaturas\obj\Debug\net8.0\ref\renovaçãoDeAssinaturas.dll

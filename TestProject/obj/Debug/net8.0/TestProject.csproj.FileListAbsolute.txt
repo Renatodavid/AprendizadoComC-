@@ -1,0 +1,14 @@
+C:\AluraC#\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\AluraC#\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\AluraC#\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\AluraC#\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\AluraC#\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\AluraC#\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraC#\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\AluraC#\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\AluraC#\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\AluraC#\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\AluraC#\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\AluraC#\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\AluraC#\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\AluraC#\TestProject\obj\Debug\net8.0\ref\TestProject.dll
