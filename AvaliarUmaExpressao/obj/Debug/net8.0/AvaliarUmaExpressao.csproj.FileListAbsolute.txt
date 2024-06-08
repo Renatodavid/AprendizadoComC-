@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\AvaliarUmaExpressao\bin\Debug\net8.0\AvaliarUmaExpressao.exe
+C:\AprendizadoComC-\AvaliarUmaExpressao\bin\Debug\net8.0\AvaliarUmaExpressao.deps.json
+C:\AprendizadoComC-\AvaliarUmaExpressao\bin\Debug\net8.0\AvaliarUmaExpressao.runtimeconfig.json
+C:\AprendizadoComC-\AvaliarUmaExpressao\bin\Debug\net8.0\AvaliarUmaExpressao.dll
+C:\AprendizadoComC-\AvaliarUmaExpressao\bin\Debug\net8.0\AvaliarUmaExpressao.pdb
+C:\AprendizadoComC-\AvaliarUmaExpressao\obj\Debug\net8.0\AvaliarUmaExpressao.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\AvaliarUmaExpressao\obj\Debug\net8.0\AvaliarUmaExpressao.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\AvaliarUmaExpressao\obj\Debug\net8.0\AvaliarUmaExpressao.AssemblyInfo.cs
+C:\AprendizadoComC-\AvaliarUmaExpressao\obj\Debug\net8.0\AvaliarUmaExpressao.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\AvaliarUmaExpressao\obj\Debug\net8.0\AvaliarUmaExpressao.sourcelink.json
+C:\AprendizadoComC-\AvaliarUmaExpressao\obj\Debug\net8.0\AvaliarUmaExpressao.dll
+C:\AprendizadoComC-\AvaliarUmaExpressao\obj\Debug\net8.0\refint\AvaliarUmaExpressao.dll
+C:\AprendizadoComC-\AvaliarUmaExpressao\obj\Debug\net8.0\AvaliarUmaExpressao.pdb
+C:\AprendizadoComC-\AvaliarUmaExpressao\obj\Debug\net8.0\AvaliarUmaExpressao.genruntimeconfig.cache
+C:\AprendizadoComC-\AvaliarUmaExpressao\obj\Debug\net8.0\ref\AvaliarUmaExpressao.dll

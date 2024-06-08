@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\operadorCondicional\bin\Debug\net8.0\operadorCondicional.exe
+C:\AprendizadoComC-\operadorCondicional\bin\Debug\net8.0\operadorCondicional.deps.json
+C:\AprendizadoComC-\operadorCondicional\bin\Debug\net8.0\operadorCondicional.runtimeconfig.json
+C:\AprendizadoComC-\operadorCondicional\bin\Debug\net8.0\operadorCondicional.dll
+C:\AprendizadoComC-\operadorCondicional\bin\Debug\net8.0\operadorCondicional.pdb
+C:\AprendizadoComC-\operadorCondicional\obj\Debug\net8.0\operadorCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\operadorCondicional\obj\Debug\net8.0\operadorCondicional.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\operadorCondicional\obj\Debug\net8.0\operadorCondicional.AssemblyInfo.cs
+C:\AprendizadoComC-\operadorCondicional\obj\Debug\net8.0\operadorCondicional.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\operadorCondicional\obj\Debug\net8.0\operadorCondicional.sourcelink.json
+C:\AprendizadoComC-\operadorCondicional\obj\Debug\net8.0\operadorCondicional.dll
+C:\AprendizadoComC-\operadorCondicional\obj\Debug\net8.0\refint\operadorCondicional.dll
+C:\AprendizadoComC-\operadorCondicional\obj\Debug\net8.0\operadorCondicional.pdb
+C:\AprendizadoComC-\operadorCondicional\obj\Debug\net8.0\operadorCondicional.genruntimeconfig.cache
+C:\AprendizadoComC-\operadorCondicional\obj\Debug\net8.0\ref\operadorCondicional.dll

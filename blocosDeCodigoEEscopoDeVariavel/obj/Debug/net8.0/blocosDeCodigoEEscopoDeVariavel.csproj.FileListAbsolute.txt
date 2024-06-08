@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\bin\Debug\net8.0\blocosDeCodigoEEscopoDeVariavel.exe
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\bin\Debug\net8.0\blocosDeCodigoEEscopoDeVariavel.deps.json
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\bin\Debug\net8.0\blocosDeCodigoEEscopoDeVariavel.runtimeconfig.json
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\bin\Debug\net8.0\blocosDeCodigoEEscopoDeVariavel.dll
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\bin\Debug\net8.0\blocosDeCodigoEEscopoDeVariavel.pdb
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\obj\Debug\net8.0\blocosDeCodigoEEscopoDeVariavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\obj\Debug\net8.0\blocosDeCodigoEEscopoDeVariavel.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\obj\Debug\net8.0\blocosDeCodigoEEscopoDeVariavel.AssemblyInfo.cs
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\obj\Debug\net8.0\blocosDeCodigoEEscopoDeVariavel.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\obj\Debug\net8.0\blocosDeCodigoEEscopoDeVariavel.sourcelink.json
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\obj\Debug\net8.0\blocosDeCodigoEEscopoDeVariavel.dll
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\obj\Debug\net8.0\refint\blocosDeCodigoEEscopoDeVariavel.dll
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\obj\Debug\net8.0\blocosDeCodigoEEscopoDeVariavel.pdb
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\obj\Debug\net8.0\blocosDeCodigoEEscopoDeVariavel.genruntimeconfig.cache
+C:\AprendizadoComC-\blocosDeCodigoEEscopoDeVariavel\obj\Debug\net8.0\ref\blocosDeCodigoEEscopoDeVariavel.dll
