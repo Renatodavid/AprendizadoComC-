@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\bin\Debug\net8.0\removendoblocosDeCodigoIf.exe
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\bin\Debug\net8.0\removendoblocosDeCodigoIf.deps.json
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\bin\Debug\net8.0\removendoblocosDeCodigoIf.runtimeconfig.json
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\bin\Debug\net8.0\removendoblocosDeCodigoIf.dll
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\bin\Debug\net8.0\removendoblocosDeCodigoIf.pdb
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\obj\Debug\net8.0\removendoblocosDeCodigoIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\obj\Debug\net8.0\removendoblocosDeCodigoIf.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\obj\Debug\net8.0\removendoblocosDeCodigoIf.AssemblyInfo.cs
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\obj\Debug\net8.0\removendoblocosDeCodigoIf.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\obj\Debug\net8.0\removendoblocosDeCodigoIf.sourcelink.json
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\obj\Debug\net8.0\removendoblocosDeCodigoIf.dll
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\obj\Debug\net8.0\refint\removendoblocosDeCodigoIf.dll
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\obj\Debug\net8.0\removendoblocosDeCodigoIf.pdb
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\obj\Debug\net8.0\removendoblocosDeCodigoIf.genruntimeconfig.cache
+C:\AprendizadoComC-\removendoblocosDeCodigoIf\obj\Debug\net8.0\ref\removendoblocosDeCodigoIf.dll
