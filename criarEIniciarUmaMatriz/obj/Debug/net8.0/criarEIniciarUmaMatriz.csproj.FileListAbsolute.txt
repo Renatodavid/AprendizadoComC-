@@ -1,0 +1,15 @@
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\obj\Debug\net8.0\criarEIniciarUmaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\obj\Debug\net8.0\criarEIniciarUmaMatriz.AssemblyInfoInputs.cache
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\obj\Debug\net8.0\criarEIniciarUmaMatriz.AssemblyInfo.cs
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\obj\Debug\net8.0\criarEIniciarUmaMatriz.csproj.CoreCompileInputs.cache
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\obj\Debug\net8.0\criarEIniciarUmaMatriz.sourcelink.json
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\bin\Debug\net8.0\criarEIniciarUmaMatriz.exe
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\bin\Debug\net8.0\criarEIniciarUmaMatriz.deps.json
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\bin\Debug\net8.0\criarEIniciarUmaMatriz.runtimeconfig.json
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\bin\Debug\net8.0\criarEIniciarUmaMatriz.dll
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\bin\Debug\net8.0\criarEIniciarUmaMatriz.pdb
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\obj\Debug\net8.0\criarEIniciarUmaMatriz.dll
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\obj\Debug\net8.0\refint\criarEIniciarUmaMatriz.dll
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\obj\Debug\net8.0\criarEIniciarUmaMatriz.pdb
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\obj\Debug\net8.0\criarEIniciarUmaMatriz.genruntimeconfig.cache
+C:\AluraC#\AprendizadoComC-\criarEIniciarUmaMatriz\obj\Debug\net8.0\ref\criarEIniciarUmaMatriz.dll
