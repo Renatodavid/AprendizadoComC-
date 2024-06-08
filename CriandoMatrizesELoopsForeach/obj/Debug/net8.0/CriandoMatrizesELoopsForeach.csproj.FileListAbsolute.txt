@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\bin\Debug\net8.0\CriandoMatrizesELoopsForeach.exe
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\bin\Debug\net8.0\CriandoMatrizesELoopsForeach.deps.json
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\bin\Debug\net8.0\CriandoMatrizesELoopsForeach.runtimeconfig.json
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\bin\Debug\net8.0\CriandoMatrizesELoopsForeach.dll
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\bin\Debug\net8.0\CriandoMatrizesELoopsForeach.pdb
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\obj\Debug\net8.0\CriandoMatrizesELoopsForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\obj\Debug\net8.0\CriandoMatrizesELoopsForeach.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\obj\Debug\net8.0\CriandoMatrizesELoopsForeach.AssemblyInfo.cs
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\obj\Debug\net8.0\CriandoMatrizesELoopsForeach.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\obj\Debug\net8.0\CriandoMatrizesELoopsForeach.sourcelink.json
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\obj\Debug\net8.0\CriandoMatrizesELoopsForeach.dll
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\obj\Debug\net8.0\refint\CriandoMatrizesELoopsForeach.dll
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\obj\Debug\net8.0\CriandoMatrizesELoopsForeach.pdb
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\obj\Debug\net8.0\CriandoMatrizesELoopsForeach.genruntimeconfig.cache
+C:\AprendizadoComC-\CriandoMatrizesELoopsForeach\obj\Debug\net8.0\ref\CriandoMatrizesELoopsForeach.dll

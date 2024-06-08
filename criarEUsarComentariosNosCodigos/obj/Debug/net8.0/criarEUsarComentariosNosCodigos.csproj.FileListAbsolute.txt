@@ -1,0 +1,15 @@
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\bin\Debug\net8.0\criarEUsarComentariosNosCodigos.exe
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\bin\Debug\net8.0\criarEUsarComentariosNosCodigos.deps.json
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\bin\Debug\net8.0\criarEUsarComentariosNosCodigos.runtimeconfig.json
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\bin\Debug\net8.0\criarEUsarComentariosNosCodigos.dll
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\bin\Debug\net8.0\criarEUsarComentariosNosCodigos.pdb
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\obj\Debug\net8.0\criarEUsarComentariosNosCodigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\obj\Debug\net8.0\criarEUsarComentariosNosCodigos.AssemblyInfoInputs.cache
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\obj\Debug\net8.0\criarEUsarComentariosNosCodigos.AssemblyInfo.cs
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\obj\Debug\net8.0\criarEUsarComentariosNosCodigos.csproj.CoreCompileInputs.cache
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\obj\Debug\net8.0\criarEUsarComentariosNosCodigos.sourcelink.json
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\obj\Debug\net8.0\criarEUsarComentariosNosCodigos.dll
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\obj\Debug\net8.0\refint\criarEUsarComentariosNosCodigos.dll
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\obj\Debug\net8.0\criarEUsarComentariosNosCodigos.pdb
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\obj\Debug\net8.0\criarEUsarComentariosNosCodigos.genruntimeconfig.cache
+C:\AluraC#\AprendizadoComC-\criarEUsarComentariosNosCodigos\obj\Debug\net8.0\ref\criarEUsarComentariosNosCodigos.dll
