@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\batalhaRpg\bin\Debug\net8.0\batalhaRpg.exe
+C:\AprendizadoComC-\batalhaRpg\bin\Debug\net8.0\batalhaRpg.deps.json
+C:\AprendizadoComC-\batalhaRpg\bin\Debug\net8.0\batalhaRpg.runtimeconfig.json
+C:\AprendizadoComC-\batalhaRpg\bin\Debug\net8.0\batalhaRpg.dll
+C:\AprendizadoComC-\batalhaRpg\bin\Debug\net8.0\batalhaRpg.pdb
+C:\AprendizadoComC-\batalhaRpg\obj\Debug\net8.0\batalhaRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\batalhaRpg\obj\Debug\net8.0\batalhaRpg.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\batalhaRpg\obj\Debug\net8.0\batalhaRpg.AssemblyInfo.cs
+C:\AprendizadoComC-\batalhaRpg\obj\Debug\net8.0\batalhaRpg.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\batalhaRpg\obj\Debug\net8.0\batalhaRpg.sourcelink.json
+C:\AprendizadoComC-\batalhaRpg\obj\Debug\net8.0\batalhaRpg.dll
+C:\AprendizadoComC-\batalhaRpg\obj\Debug\net8.0\refint\batalhaRpg.dll
+C:\AprendizadoComC-\batalhaRpg\obj\Debug\net8.0\batalhaRpg.pdb
+C:\AprendizadoComC-\batalhaRpg\obj\Debug\net8.0\batalhaRpg.genruntimeconfig.cache
+C:\AprendizadoComC-\batalhaRpg\obj\Debug\net8.0\ref\batalhaRpg.dll
