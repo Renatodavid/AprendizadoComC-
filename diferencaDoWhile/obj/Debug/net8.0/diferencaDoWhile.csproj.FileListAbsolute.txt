@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\diferencaDoWhile\bin\Debug\net8.0\diferencaDoWhile.exe
+C:\AprendizadoComC-\diferencaDoWhile\bin\Debug\net8.0\diferencaDoWhile.deps.json
+C:\AprendizadoComC-\diferencaDoWhile\bin\Debug\net8.0\diferencaDoWhile.runtimeconfig.json
+C:\AprendizadoComC-\diferencaDoWhile\bin\Debug\net8.0\diferencaDoWhile.dll
+C:\AprendizadoComC-\diferencaDoWhile\bin\Debug\net8.0\diferencaDoWhile.pdb
+C:\AprendizadoComC-\diferencaDoWhile\obj\Debug\net8.0\diferencaDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\diferencaDoWhile\obj\Debug\net8.0\diferencaDoWhile.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\diferencaDoWhile\obj\Debug\net8.0\diferencaDoWhile.AssemblyInfo.cs
+C:\AprendizadoComC-\diferencaDoWhile\obj\Debug\net8.0\diferencaDoWhile.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\diferencaDoWhile\obj\Debug\net8.0\diferencaDoWhile.sourcelink.json
+C:\AprendizadoComC-\diferencaDoWhile\obj\Debug\net8.0\diferencaDoWhile.dll
+C:\AprendizadoComC-\diferencaDoWhile\obj\Debug\net8.0\refint\diferencaDoWhile.dll
+C:\AprendizadoComC-\diferencaDoWhile\obj\Debug\net8.0\diferencaDoWhile.pdb
+C:\AprendizadoComC-\diferencaDoWhile\obj\Debug\net8.0\diferencaDoWhile.genruntimeconfig.cache
+C:\AprendizadoComC-\diferencaDoWhile\obj\Debug\net8.0\ref\diferencaDoWhile.dll
