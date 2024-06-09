@@ -4,6 +4,7 @@ class Program
 {
     static void Main()
     {
+        // Dados de exemplo usando uma matriz multidimensional
         string[,] ourAnimals = new string[5, 6]
         {
             { "1", "cão", "2", "pequeno, pelagem preta", "brincalhão", "Rex" },
@@ -13,21 +14,23 @@ class Program
             { "5", "cão", "1", "médio, pelagem dourada", "amigável", "Buddy" }
         };
 
-        while (true)
+        string userInput;
+        do
         {
             Console.WriteLine("\nMenu Principal:");
             Console.WriteLine("1. Listar todas as nossas informações atuais sobre os animais de estimação.");
             Console.WriteLine("2. Atribuir valores aos campos da matriz ourAnimals.");
-            Console.WriteLine("Digite 'Exit' para sair do programa.");
+            Console.WriteLine("3. Verificar se os dados de idade e descrição física dos animais estão completos.");
+            Console.WriteLine("4. Verificar se os dados de apelido e descrição de personalidade dos animais estão completos.");
+            Console.WriteLine("5. Editar a idade do animal.");
+            Console.WriteLine("6. Editar a descrição de personalidade do animal.");
+            Console.WriteLine("7. Exibir todos os gatos com uma característica especificada.");
+            Console.WriteLine("8. Exibir todos os cães com uma característica especificada.");
+            Console.WriteLine("Digite 'sair' para sair do programa.");
 
-            string choice = Console.ReadLine();
+            userInput = Console.ReadLine();
 
-            if (choice.ToLower() == "exit")
-            {
-                break;
-            }
-
-            switch (choice)
+            switch (userInput.ToLower())
             {
                 case "1":
                     ListAllAnimals(ourAnimals);
@@ -35,11 +38,32 @@ class Program
                 case "2":
                     AddNewAnimal(ref ourAnimals);
                     break;
+                case "3":
+                    Console.WriteLine("Funcionalidade ainda não implementada: Verificar se os dados de idade e descrição física dos animais estão completos.");
+                    break;
+                case "4":
+                    Console.WriteLine("Funcionalidade ainda não implementada: Verificar se os dados de apelido e descrição de personalidade dos animais estão completos.");
+                    break;
+                case "5":
+                    Console.WriteLine("Funcionalidade ainda não implementada: Editar a idade do animal.");
+                    break;
+                case "6":
+                    Console.WriteLine("Funcionalidade ainda não implementada: Editar a descrição de personalidade do animal.");
+                    break;
+                case "7":
+                    Console.WriteLine("Funcionalidade ainda não implementada: Exibir todos os gatos com uma característica especificada.");
+                    break;
+                case "8":
+                    Console.WriteLine("Funcionalidade ainda não implementada: Exibir todos os cães com uma característica especificada.");
+                    break;
+                case "sair":
+                    Console.WriteLine("Saindo do programa.");
+                    break;
                 default:
                     Console.WriteLine("Opção inválida. Por favor, tente novamente.");
                     break;
             }
-        }
+        } while (userInput.ToLower() != "sair");
     }
 
     static void ListAllAnimals(string[,] animals)
