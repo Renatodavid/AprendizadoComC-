@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\tiposIntegrais\bin\Debug\net8.0\tiposIntegrais.exe
+C:\AprendizadoComC-\tiposIntegrais\bin\Debug\net8.0\tiposIntegrais.deps.json
+C:\AprendizadoComC-\tiposIntegrais\bin\Debug\net8.0\tiposIntegrais.runtimeconfig.json
+C:\AprendizadoComC-\tiposIntegrais\bin\Debug\net8.0\tiposIntegrais.dll
+C:\AprendizadoComC-\tiposIntegrais\bin\Debug\net8.0\tiposIntegrais.pdb
+C:\AprendizadoComC-\tiposIntegrais\obj\Debug\net8.0\tiposIntegrais.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\tiposIntegrais\obj\Debug\net8.0\tiposIntegrais.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\tiposIntegrais\obj\Debug\net8.0\tiposIntegrais.AssemblyInfo.cs
+C:\AprendizadoComC-\tiposIntegrais\obj\Debug\net8.0\tiposIntegrais.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\tiposIntegrais\obj\Debug\net8.0\tiposIntegrais.sourcelink.json
+C:\AprendizadoComC-\tiposIntegrais\obj\Debug\net8.0\tiposIntegrais.dll
+C:\AprendizadoComC-\tiposIntegrais\obj\Debug\net8.0\refint\tiposIntegrais.dll
+C:\AprendizadoComC-\tiposIntegrais\obj\Debug\net8.0\tiposIntegrais.pdb
+C:\AprendizadoComC-\tiposIntegrais\obj\Debug\net8.0\tiposIntegrais.genruntimeconfig.cache
+C:\AprendizadoComC-\tiposIntegrais\obj\Debug\net8.0\ref\tiposIntegrais.dll
