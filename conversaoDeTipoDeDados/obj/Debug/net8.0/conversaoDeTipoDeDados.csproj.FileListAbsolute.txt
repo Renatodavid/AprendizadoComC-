@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\conversaoDeTipoDeDados\obj\Debug\net8.0\conversaoDeTipoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\conversaoDeTipoDeDados\obj\Debug\net8.0\conversaoDeTipoDeDados.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\conversaoDeTipoDeDados\obj\Debug\net8.0\conversaoDeTipoDeDados.AssemblyInfo.cs
+C:\AprendizadoComC-\conversaoDeTipoDeDados\obj\Debug\net8.0\conversaoDeTipoDeDados.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\conversaoDeTipoDeDados\obj\Debug\net8.0\conversaoDeTipoDeDados.sourcelink.json
+C:\AprendizadoComC-\conversaoDeTipoDeDados\bin\Debug\net8.0\conversaoDeTipoDeDados.exe
+C:\AprendizadoComC-\conversaoDeTipoDeDados\bin\Debug\net8.0\conversaoDeTipoDeDados.deps.json
+C:\AprendizadoComC-\conversaoDeTipoDeDados\bin\Debug\net8.0\conversaoDeTipoDeDados.runtimeconfig.json
+C:\AprendizadoComC-\conversaoDeTipoDeDados\bin\Debug\net8.0\conversaoDeTipoDeDados.dll
+C:\AprendizadoComC-\conversaoDeTipoDeDados\bin\Debug\net8.0\conversaoDeTipoDeDados.pdb
+C:\AprendizadoComC-\conversaoDeTipoDeDados\obj\Debug\net8.0\conversaoDeTipoDeDados.dll
+C:\AprendizadoComC-\conversaoDeTipoDeDados\obj\Debug\net8.0\refint\conversaoDeTipoDeDados.dll
+C:\AprendizadoComC-\conversaoDeTipoDeDados\obj\Debug\net8.0\conversaoDeTipoDeDados.pdb
+C:\AprendizadoComC-\conversaoDeTipoDeDados\obj\Debug\net8.0\conversaoDeTipoDeDados.genruntimeconfig.cache
+C:\AprendizadoComC-\conversaoDeTipoDeDados\obj\Debug\net8.0\ref\conversaoDeTipoDeDados.dll
