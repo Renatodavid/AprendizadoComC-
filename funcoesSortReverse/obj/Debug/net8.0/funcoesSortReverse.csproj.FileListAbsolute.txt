@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\funcoesSortReverse\bin\Debug\net8.0\funcoesSortReverse.exe
+C:\AprendizadoComC-\funcoesSortReverse\bin\Debug\net8.0\funcoesSortReverse.deps.json
+C:\AprendizadoComC-\funcoesSortReverse\bin\Debug\net8.0\funcoesSortReverse.runtimeconfig.json
+C:\AprendizadoComC-\funcoesSortReverse\bin\Debug\net8.0\funcoesSortReverse.dll
+C:\AprendizadoComC-\funcoesSortReverse\bin\Debug\net8.0\funcoesSortReverse.pdb
+C:\AprendizadoComC-\funcoesSortReverse\obj\Debug\net8.0\funcoesSortReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\funcoesSortReverse\obj\Debug\net8.0\funcoesSortReverse.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\funcoesSortReverse\obj\Debug\net8.0\funcoesSortReverse.AssemblyInfo.cs
+C:\AprendizadoComC-\funcoesSortReverse\obj\Debug\net8.0\funcoesSortReverse.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\funcoesSortReverse\obj\Debug\net8.0\funcoesSortReverse.sourcelink.json
+C:\AprendizadoComC-\funcoesSortReverse\obj\Debug\net8.0\funcoesSortReverse.dll
+C:\AprendizadoComC-\funcoesSortReverse\obj\Debug\net8.0\refint\funcoesSortReverse.dll
+C:\AprendizadoComC-\funcoesSortReverse\obj\Debug\net8.0\funcoesSortReverse.pdb
+C:\AprendizadoComC-\funcoesSortReverse\obj\Debug\net8.0\funcoesSortReverse.genruntimeconfig.cache
+C:\AprendizadoComC-\funcoesSortReverse\obj\Debug\net8.0\ref\funcoesSortReverse.dll
