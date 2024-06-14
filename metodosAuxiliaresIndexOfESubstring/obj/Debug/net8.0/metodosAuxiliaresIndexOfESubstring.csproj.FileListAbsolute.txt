@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\bin\Debug\net8.0\metodosAuxiliaresIndexOfESubstring.exe
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\bin\Debug\net8.0\metodosAuxiliaresIndexOfESubstring.deps.json
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\bin\Debug\net8.0\metodosAuxiliaresIndexOfESubstring.runtimeconfig.json
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\bin\Debug\net8.0\metodosAuxiliaresIndexOfESubstring.dll
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\bin\Debug\net8.0\metodosAuxiliaresIndexOfESubstring.pdb
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\obj\Debug\net8.0\metodosAuxiliaresIndexOfESubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\obj\Debug\net8.0\metodosAuxiliaresIndexOfESubstring.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\obj\Debug\net8.0\metodosAuxiliaresIndexOfESubstring.AssemblyInfo.cs
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\obj\Debug\net8.0\metodosAuxiliaresIndexOfESubstring.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\obj\Debug\net8.0\metodosAuxiliaresIndexOfESubstring.sourcelink.json
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\obj\Debug\net8.0\metodosAuxiliaresIndexOfESubstring.dll
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\obj\Debug\net8.0\refint\metodosAuxiliaresIndexOfESubstring.dll
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\obj\Debug\net8.0\metodosAuxiliaresIndexOfESubstring.pdb
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\obj\Debug\net8.0\metodosAuxiliaresIndexOfESubstring.genruntimeconfig.cache
+C:\AprendizadoComC-\metodosAuxiliaresIndexOfESubstring\obj\Debug\net8.0\ref\metodosAuxiliaresIndexOfESubstring.dll
