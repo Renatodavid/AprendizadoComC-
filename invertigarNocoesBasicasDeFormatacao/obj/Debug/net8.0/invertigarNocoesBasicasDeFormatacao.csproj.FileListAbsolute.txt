@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\bin\Debug\net8.0\invertigarNocoesBasicasDeFormatacao.exe
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\bin\Debug\net8.0\invertigarNocoesBasicasDeFormatacao.deps.json
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\bin\Debug\net8.0\invertigarNocoesBasicasDeFormatacao.runtimeconfig.json
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\bin\Debug\net8.0\invertigarNocoesBasicasDeFormatacao.dll
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\bin\Debug\net8.0\invertigarNocoesBasicasDeFormatacao.pdb
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\obj\Debug\net8.0\invertigarNocoesBasicasDeFormatacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\obj\Debug\net8.0\invertigarNocoesBasicasDeFormatacao.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\obj\Debug\net8.0\invertigarNocoesBasicasDeFormatacao.AssemblyInfo.cs
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\obj\Debug\net8.0\invertigarNocoesBasicasDeFormatacao.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\obj\Debug\net8.0\invertigarNocoesBasicasDeFormatacao.sourcelink.json
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\obj\Debug\net8.0\invertigarNocoesBasicasDeFormatacao.dll
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\obj\Debug\net8.0\refint\invertigarNocoesBasicasDeFormatacao.dll
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\obj\Debug\net8.0\invertigarNocoesBasicasDeFormatacao.pdb
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\obj\Debug\net8.0\invertigarNocoesBasicasDeFormatacao.genruntimeconfig.cache
+C:\AprendizadoComC-\invertigarNocoesBasicasDeFormatacao\obj\Debug\net8.0\ref\invertigarNocoesBasicasDeFormatacao.dll
