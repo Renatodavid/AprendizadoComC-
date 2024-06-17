@@ -1,184 +1,266 @@
-﻿// using System;
+﻿﻿// Program.cs
+// #1 o array nossosAnimais armazenará o seguinte: 
+string especieAnimal = "";
+string idAnimal = "";
+string idadeAnimal = "";
+string descricaoFisicaAnimal = "";
+string descricaoPersonalidadeAnimal = "";
+string apelidoAnimal = "";
+string doacaoSugerida = "";
 
-// #1 the ourAnimals array will store the following: 
-string animalSpecies = "";
-string animalID = "";
-string animalAge = "";
-string animalPhysicalDescription = "";
-string animalPersonalityDescription = "";
-string animalNickname = "";
-string suggestedDonation = "";
+// #2 variáveis que suportam a entrada de dados
+int maxAnimais = 8;
+string? resultadoLeitura;
+string selecaoMenu = "";
+decimal decimalDoacao = 0.00m;
 
-// #2 variables that support data entry
-int maxPets = 8;
-string? readResult;
-string menuSelection = "";
-decimal decimalDonation = 0.00m;
+// #3 array usado para armazenar dados em tempo de execução, não há dados persistentes
+string[,] nossosAnimais = new string[maxAnimais, 7];
 
-// #3 array used to store runtime data, there is no persisted data
-string[,] ourAnimals = new string[maxPets, 7];
-
-// #4 create sample data ourAnimals array entries
-for (int i = 0; i < maxPets; i++)
+// #4 criar dados de exemplo nas entradas do array nossosAnimais
+for (int i = 0; i < maxAnimais; i++)
 {
     switch (i)
     {
         case 0:
-            animalSpecies = "dog";
-            animalID = "d1";
-            animalAge = "2";
-            animalPhysicalDescription = "medium sized cream colored female golden retriever weighing about 45 pounds. housebroken.";
-            animalPersonalityDescription = "loves to have her belly rubbed and likes to chase her tail. gives lots of kisses.";
-            animalNickname = "lola";
-            suggestedDonation = "85.00";
+            especieAnimal = "cachorro";
+            idAnimal = "c1";
+            idadeAnimal = "2";
+            descricaoFisicaAnimal = "fêmea de porte médio, cor creme, golden retriever, pesando cerca de 20 kg. treinada para fazer necessidades fora de casa.";
+            descricaoPersonalidadeAnimal = "adora ter sua barriga coçada e gosta de perseguir seu rabo. dá muitos beijos.";
+            apelidoAnimal = "lola";
+            doacaoSugerida = "85.00";
             break;
 
         case 1:
-            animalSpecies = "dog";
-            animalID = "d2";
-            animalAge = "9";
-            animalPhysicalDescription = "large reddish-brown male golden retriever weighing about 85 pounds. housebroken.";
-            animalPersonalityDescription = "loves to have his ears rubbed when he greets you at the door, or at any time! loves to lean-in and give doggy hugs.";
-            animalNickname = "gus";
-            suggestedDonation = "49.99";
+            especieAnimal = "cachorro";
+            idAnimal = "c2";
+            idadeAnimal = "9";
+            descricaoFisicaAnimal = "macho de porte grande, cor marrom avermelhada, golden retriever, pesando cerca de 40 kg. treinado para fazer necessidades fora de casa.";
+            descricaoPersonalidadeAnimal = "adora ter suas orelhas coçadas quando te cumprimenta na porta, ou a qualquer momento! adora se encostar e dar abraços de cachorro.";
+            apelidoAnimal = "gus";
+            doacaoSugerida = "49.99";
             break;
 
         case 2:
-            animalSpecies = "cat";
-            animalID = "c3";
-            animalAge = "1";
-            animalPhysicalDescription = "small white female weighing about 8 pounds. litter box trained.";
-            animalPersonalityDescription = "friendly";
-            animalNickname = "snow";
-            suggestedDonation = "40.00";
+            especieAnimal = "gato";
+            idAnimal = "g3";
+            idadeAnimal = "1";
+            descricaoFisicaAnimal = "fêmea pequena, cor branca, pesando cerca de 4 kg. treinada para usar a caixa de areia.";
+            descricaoPersonalidadeAnimal = "amigável";
+            apelidoAnimal = "neve";
+            doacaoSugerida = "40.00";
             break;
 
         case 3:
-            animalSpecies = "cat";
-            animalID = "c4";
-            animalAge = "";
-            animalPhysicalDescription = "";
-            animalPersonalityDescription = "";
-            animalNickname = "lion";
-            suggestedDonation = "";
+            especieAnimal = "gato";
+            idAnimal = "g4";
+            idadeAnimal = "";
+            descricaoFisicaAnimal = "";
+            descricaoPersonalidadeAnimal = "";
+            apelidoAnimal = "leão";
+            doacaoSugerida = "";
 
             break;
 
         default:
-            animalSpecies = "";
-            animalID = "";
-            animalAge = "";
-            animalPhysicalDescription = "";
-            animalPersonalityDescription = "";
-            animalNickname = "";
-            suggestedDonation = "";
+            especieAnimal = "";
+            idAnimal = "";
+            idadeAnimal = "";
+            descricaoFisicaAnimal = "";
+            descricaoPersonalidadeAnimal = "";
+            apelidoAnimal = "";
+            doacaoSugerida = "";
             break;
 
     }
 
-    ourAnimals[i, 0] = "ID #: " + animalID;
-    ourAnimals[i, 1] = "Species: " + animalSpecies;
-    ourAnimals[i, 2] = "Age: " + animalAge;
-    ourAnimals[i, 3] = "Nickname: " + animalNickname;
-    ourAnimals[i, 4] = "Physical description: " + animalPhysicalDescription;
-    ourAnimals[i, 5] = "Personality: " + animalPersonalityDescription;
-    
-    if (!decimal.TryParse(suggestedDonation, out decimalDonation)){
-        decimalDonation = 45.00m; // if suggestedDonation NOT a number, default to 45.00
+    nossosAnimais[i, 0] = "ID #: " + idAnimal;
+    nossosAnimais[i, 1] = "Espécie: " + especieAnimal;
+    nossosAnimais[i, 2] = "Idade: " + idadeAnimal;
+    nossosAnimais[i, 3] = "Apelido: " + apelidoAnimal;
+    nossosAnimais[i, 4] = "Descrição física: " + descricaoFisicaAnimal;
+    nossosAnimais[i, 5] = "Personalidade: " + descricaoPersonalidadeAnimal;
+// #1 o array nossosAnimais armazenará o seguinte: 
+string especieAnimal = "";
+string idAnimal = "";
+string idadeAnimal = "";
+string descricaoFisicaAnimal = "";
+string descricaoPersonalidadeAnimal = "";
+string apelidoAnimal = "";
+string doacaoSugerida = "";
+
+// #2 variáveis que suportam a entrada de dados
+int maxAnimais = 8;
+string? resultadoLeitura;
+string selecaoMenu = "";
+decimal decimalDoacao = 0.00m;
+
+// #3 array usado para armazenar dados em tempo de execução, não há dados persistentes
+string[,] nossosAnimais = new string[maxAnimais, 7];
+
+// #4 criar dados de exemplo nas entradas do array nossosAnimais
+for (int i = 0; i < maxAnimais; i++)
+{
+    switch (i)
+    {
+        case 0:
+            especieAnimal = "cachorro";
+            idAnimal = "c1";
+            idadeAnimal = "2";
+            descricaoFisicaAnimal = "fêmea de porte médio, cor creme, golden retriever, pesando cerca de 20 kg. treinada para fazer necessidades fora de casa.";
+            descricaoPersonalidadeAnimal = "adora ter sua barriga coçada e gosta de perseguir seu rabo. dá muitos beijos.";
+            apelidoAnimal = "lola";
+            doacaoSugerida = "85.00";
+            break;
+
+        case 1:
+            especieAnimal = "cachorro";
+            idAnimal = "c2";
+            idadeAnimal = "9";
+            descricaoFisicaAnimal = "macho de porte grande, cor marrom avermelhada, golden retriever, pesando cerca de 40 kg. treinado para fazer necessidades fora de casa.";
+            descricaoPersonalidadeAnimal = "adora ter suas orelhas coçadas quando te cumprimenta na porta, ou a qualquer momento! adora se encostar e dar abraços de cachorro.";
+            apelidoAnimal = "gus";
+            doacaoSugerida = "49.99";
+            break;
+
+        case 2:
+            especieAnimal = "gato";
+            idAnimal = "g3";
+            idadeAnimal = "1";
+            descricaoFisicaAnimal = "fêmea pequena, cor branca, pesando cerca de 4 kg. treinada para usar a caixa de areia.";
+            descricaoPersonalidadeAnimal = "amigável";
+            apelidoAnimal = "neve";
+            doacaoSugerida = "40.00";
+            break;
+
+        case 3:
+            especieAnimal = "gato";
+            idAnimal = "g4";
+            idadeAnimal = "";
+            descricaoFisicaAnimal = "";
+            descricaoPersonalidadeAnimal = "";
+            apelidoAnimal = "leão";
+            doacaoSugerida = "";
+
+            break;
+
+        default:
+            especieAnimal = "";
+            idAnimal = "";
+            idadeAnimal = "";
+            descricaoFisicaAnimal = "";
+            descricaoPersonalidadeAnimal = "";
+            apelidoAnimal = "";
+            doacaoSugerida = "";
+            break;
+
     }
-    ourAnimals[i, 6] = $"Suggested Donation: {decimalDonation:C2}";
+
+    nossosAnimais[i, 0] = "ID #: " + idAnimal;
+    nossosAnimais[i, 1] = "Espécie: " + especieAnimal;
+    nossosAnimais[i, 2] = "Idade: " + idadeAnimal;
+    nossosAnimais[i, 3] = "Apelido: " + apelidoAnimal;
+    nossosAnimais[i, 4] = "Descrição física: " + descricaoFisicaAnimal;
+    nossosAnimais[i, 5] = "Personalidade: " + descricaoPersonalidadeAnimal;
+
+    if (!decimal.TryParse(doacaoSugerida, out decimalDoacao))
+    {
+        decimalDoacao = 45.00m; // se doacaoSugerida NÃO for um número, padrão para 45.00
+    }
+    nossosAnimais[i, 6] = $"Doação Sugerida: {decimalDoacao:C2}";
 }
 
-// #5 display the top-level menu options
+// #5 exibir as opções do menu principal
 do
 {
-    // NOTE: the Console.Clear method is throwing an exception in debug sessions
+    // NOTA: o método Console.Clear está lançando uma exceção em sessões de depuração
     Console.Clear();
 
-    Console.WriteLine("Welcome to the Contoso PetFriends app. Your main menu options are:");
-    Console.WriteLine(" 1. List all of our current pet information");
-    Console.WriteLine(" 2. Display all dogs with a specified characteristic");
+    Console.WriteLine("Bem-vindo ao aplicativo Contoso PetFriends. Suas opções de menu principais são:");
+    Console.WriteLine(" 1. Listar todas as informações dos nossos animais atuais");
+    Console.WriteLine(" 2. Exibir todos os cachorros com uma característica especificada");
     Console.WriteLine();
-    Console.WriteLine("Enter your selection number (or type Exit to exit the program)");
+    Console.WriteLine("Digite o número da sua seleção (ou digite Sair para sair do programa)");
 
-    readResult = Console.ReadLine();
-    if (readResult != null)
+    resultadoLeitura = Console.ReadLine();
+    if (resultadoLeitura != null)
     {
-        menuSelection = readResult.ToLower();
+        selecaoMenu = resultadoLeitura.ToLower();
     }
 
-    // use switch-case to process the selected menu option
-    switch (menuSelection)
+    // usar switch-case para processar a opção de menu selecionada
+    switch (selecaoMenu)
     {
         case "1":
-            // list all pet info
-            for (int i = 0; i < maxPets; i++)
+            // listar todas as informações dos animais
+            for (int i = 0; i < maxAnimais; i++)
             {
-                if (ourAnimals[i, 0] != "ID #: ")
+                if (nossosAnimais[i, 0] != "ID #: ")
                 {
                     Console.WriteLine();
                     for (int j = 0; j < 7; j++)
                     {
-                        Console.WriteLine(ourAnimals[i, j].ToString());
+                        Console.WriteLine(nossosAnimais[i, j].ToString());
                     }
                 }
             }
-            Console.WriteLine("\n\rPress the Enter key to continue");
-            readResult = Console.ReadLine();
+            Console.WriteLine("\n\rPressione a tecla Enter para continuar");
+            resultadoLeitura = Console.ReadLine();
 
             break;
 
         case "2":
-            // Display all dogs with a specified characteristic");
+            // Exibir todos os cachorros com uma característica especificada
 
-            string dogCharacteristic = "";
+            string caracteristicaCachorro = "";
 
-            while (dogCharacteristic == "")
+            while (caracteristicaCachorro == "")
             {
-                // have the user enter physical characteristics to search for
-                Console.WriteLine($"\nEnter one desired dog characteristics to search for");
-                readResult = Console.ReadLine();
-                if (readResult != null)
+                // pedir ao usuário para inserir características físicas para pesquisar
+                Console.WriteLine($"\nDigite uma característica desejada de cachorro para procurar");
+                resultadoLeitura = Console.ReadLine();
+                if (resultadoLeitura != null)
                 {
-                    dogCharacteristic = readResult.ToLower().Trim();
+                    caracteristicaCachorro = resultadoLeitura.ToLower().Trim();
                 }
             }
 
-            bool noMatchesDog = true;
-            string dogDescription = "";
+            bool semCorrespondenciasCachorro = true;
+            string descricaoCachorro = "";
 
-            // #6 loop through the ourAnimals array to search for matching animals
-            for (int i = 0; i < maxPets; i++)
+            // #6 percorrer o array nossosAnimais para procurar animais correspondentes
+            for (int i = 0; i < maxAnimais; i++)
             {
-                bool dogMatch = true;
+                bool correspondeCachorro = true;
 
-                if (ourAnimals[i, 1].Contains("dog"))
+                if (nossosAnimais[i, 1].Contains("cachorro"))
                 {
-                    
-                    if (dogMatch == true)
+
+                    if (correspondeCachorro == true)
                     {
-                        // #7 Search combined descriptions and report results
-                        dogDescription = ourAnimals[i, 4] + "\n" + ourAnimals[i, 5];
-                        
+                        // #7 Procurar descrições combinadas e relatar resultados
+                        descricaoCachorro = nossosAnimais[i, 4] + "\n" + nossosAnimais[i, 5];
 
-                        if (dogDescription.Contains(dogCharacteristic))
+
+                        if (descricaoCachorro.Contains(caracteristicaCachorro))
                         {
-                            Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is a match!");
-                            Console.WriteLine(dogDescription);
+                            Console.WriteLine($"\nNosso cachorro {nossosAnimais[i, 3]} é uma correspondência!");
+                            Console.WriteLine(descricaoCachorro);
 
-                            noMatchesDog = false;
+                            semCorrespondenciasCachorro = false;
                         }
                     }
                 }
             }
 
-            if (noMatchesDog)
+            if (semCorrespondenciasCachorro)
             {
-                Console.WriteLine("None of our dogs are a match found for: " + dogCharacteristic);
+                Console.WriteLine("Nenhum de nossos cachorros é uma correspondência para: " + caracteristicaCachorro);
             }
 
-            Console.WriteLine("\n\rPress the Enter key to continue");
-            readResult = Console.ReadLine();
+            Console.WriteLine("\n\rPressione a tecla Enter para continuar");
+            resultadoLeitura = Console.ReadLine();
 
             break;
 
@@ -186,4 +268,4 @@ do
             break;
     }
 
-} while (menuSelection != "exit");
+} while (selecaoMenu != "sair");
