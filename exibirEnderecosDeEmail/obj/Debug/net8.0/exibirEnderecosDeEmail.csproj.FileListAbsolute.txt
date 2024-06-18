@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\exibirEnderecosDeEmail\obj\Debug\net8.0\exibirEnderecosDeEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\exibirEnderecosDeEmail\obj\Debug\net8.0\exibirEnderecosDeEmail.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\exibirEnderecosDeEmail\obj\Debug\net8.0\exibirEnderecosDeEmail.AssemblyInfo.cs
+C:\AprendizadoComC-\exibirEnderecosDeEmail\obj\Debug\net8.0\exibirEnderecosDeEmail.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\exibirEnderecosDeEmail\obj\Debug\net8.0\exibirEnderecosDeEmail.sourcelink.json
+C:\AprendizadoComC-\exibirEnderecosDeEmail\bin\Debug\net8.0\exibirEnderecosDeEmail.exe
+C:\AprendizadoComC-\exibirEnderecosDeEmail\bin\Debug\net8.0\exibirEnderecosDeEmail.deps.json
+C:\AprendizadoComC-\exibirEnderecosDeEmail\bin\Debug\net8.0\exibirEnderecosDeEmail.runtimeconfig.json
+C:\AprendizadoComC-\exibirEnderecosDeEmail\bin\Debug\net8.0\exibirEnderecosDeEmail.dll
+C:\AprendizadoComC-\exibirEnderecosDeEmail\bin\Debug\net8.0\exibirEnderecosDeEmail.pdb
+C:\AprendizadoComC-\exibirEnderecosDeEmail\obj\Debug\net8.0\exibirEnderecosDeEmail.dll
+C:\AprendizadoComC-\exibirEnderecosDeEmail\obj\Debug\net8.0\refint\exibirEnderecosDeEmail.dll
+C:\AprendizadoComC-\exibirEnderecosDeEmail\obj\Debug\net8.0\exibirEnderecosDeEmail.pdb
+C:\AprendizadoComC-\exibirEnderecosDeEmail\obj\Debug\net8.0\exibirEnderecosDeEmail.genruntimeconfig.cache
+C:\AprendizadoComC-\exibirEnderecosDeEmail\obj\Debug\net8.0\ref\exibirEnderecosDeEmail.dll
