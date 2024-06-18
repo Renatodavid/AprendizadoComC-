@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\bin\Debug\net8.0\criandoSeuPrimeiroMetodo.exe
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\bin\Debug\net8.0\criandoSeuPrimeiroMetodo.deps.json
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\bin\Debug\net8.0\criandoSeuPrimeiroMetodo.runtimeconfig.json
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\bin\Debug\net8.0\criandoSeuPrimeiroMetodo.dll
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\bin\Debug\net8.0\criandoSeuPrimeiroMetodo.pdb
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\obj\Debug\net8.0\criandoSeuPrimeiroMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\obj\Debug\net8.0\criandoSeuPrimeiroMetodo.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\obj\Debug\net8.0\criandoSeuPrimeiroMetodo.AssemblyInfo.cs
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\obj\Debug\net8.0\criandoSeuPrimeiroMetodo.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\obj\Debug\net8.0\criandoSeuPrimeiroMetodo.sourcelink.json
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\obj\Debug\net8.0\criandoSeuPrimeiroMetodo.dll
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\obj\Debug\net8.0\refint\criandoSeuPrimeiroMetodo.dll
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\obj\Debug\net8.0\criandoSeuPrimeiroMetodo.pdb
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\obj\Debug\net8.0\criandoSeuPrimeiroMetodo.genruntimeconfig.cache
+C:\AprendizadoComC-\criandoSeuPrimeiroMetodo\obj\Debug\net8.0\ref\criandoSeuPrimeiroMetodo.dll

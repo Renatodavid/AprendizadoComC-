@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\usarParametrosEmMetodos\obj\Debug\net8.0\usarParametrosEmMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\usarParametrosEmMetodos\obj\Debug\net8.0\usarParametrosEmMetodos.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\usarParametrosEmMetodos\obj\Debug\net8.0\usarParametrosEmMetodos.AssemblyInfo.cs
+C:\AprendizadoComC-\usarParametrosEmMetodos\obj\Debug\net8.0\usarParametrosEmMetodos.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\usarParametrosEmMetodos\obj\Debug\net8.0\usarParametrosEmMetodos.sourcelink.json
+C:\AprendizadoComC-\usarParametrosEmMetodos\bin\Debug\net8.0\usarParametrosEmMetodos.exe
+C:\AprendizadoComC-\usarParametrosEmMetodos\bin\Debug\net8.0\usarParametrosEmMetodos.deps.json
+C:\AprendizadoComC-\usarParametrosEmMetodos\bin\Debug\net8.0\usarParametrosEmMetodos.runtimeconfig.json
+C:\AprendizadoComC-\usarParametrosEmMetodos\bin\Debug\net8.0\usarParametrosEmMetodos.dll
+C:\AprendizadoComC-\usarParametrosEmMetodos\bin\Debug\net8.0\usarParametrosEmMetodos.pdb
+C:\AprendizadoComC-\usarParametrosEmMetodos\obj\Debug\net8.0\usarParametrosEmMetodos.dll
+C:\AprendizadoComC-\usarParametrosEmMetodos\obj\Debug\net8.0\refint\usarParametrosEmMetodos.dll
+C:\AprendizadoComC-\usarParametrosEmMetodos\obj\Debug\net8.0\usarParametrosEmMetodos.pdb
+C:\AprendizadoComC-\usarParametrosEmMetodos\obj\Debug\net8.0\usarParametrosEmMetodos.genruntimeconfig.cache
+C:\AprendizadoComC-\usarParametrosEmMetodos\obj\Debug\net8.0\ref\usarParametrosEmMetodos.dll
