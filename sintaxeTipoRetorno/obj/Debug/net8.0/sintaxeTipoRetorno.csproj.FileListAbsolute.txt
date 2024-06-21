@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\sintaxeTipoRetorno\obj\Debug\net8.0\sintaxeTipoRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\sintaxeTipoRetorno\obj\Debug\net8.0\sintaxeTipoRetorno.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\sintaxeTipoRetorno\obj\Debug\net8.0\sintaxeTipoRetorno.AssemblyInfo.cs
+C:\AprendizadoComC-\sintaxeTipoRetorno\obj\Debug\net8.0\sintaxeTipoRetorno.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\sintaxeTipoRetorno\obj\Debug\net8.0\sintaxeTipoRetorno.sourcelink.json
+C:\AprendizadoComC-\sintaxeTipoRetorno\bin\Debug\net8.0\sintaxeTipoRetorno.exe
+C:\AprendizadoComC-\sintaxeTipoRetorno\bin\Debug\net8.0\sintaxeTipoRetorno.deps.json
+C:\AprendizadoComC-\sintaxeTipoRetorno\bin\Debug\net8.0\sintaxeTipoRetorno.runtimeconfig.json
+C:\AprendizadoComC-\sintaxeTipoRetorno\bin\Debug\net8.0\sintaxeTipoRetorno.dll
+C:\AprendizadoComC-\sintaxeTipoRetorno\bin\Debug\net8.0\sintaxeTipoRetorno.pdb
+C:\AprendizadoComC-\sintaxeTipoRetorno\obj\Debug\net8.0\sintaxeTipoRetorno.dll
+C:\AprendizadoComC-\sintaxeTipoRetorno\obj\Debug\net8.0\refint\sintaxeTipoRetorno.dll
+C:\AprendizadoComC-\sintaxeTipoRetorno\obj\Debug\net8.0\sintaxeTipoRetorno.pdb
+C:\AprendizadoComC-\sintaxeTipoRetorno\obj\Debug\net8.0\sintaxeTipoRetorno.genruntimeconfig.cache
+C:\AprendizadoComC-\sintaxeTipoRetorno\obj\Debug\net8.0\ref\sintaxeTipoRetorno.dll
