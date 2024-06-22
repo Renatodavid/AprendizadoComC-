@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\visitaZoo\bin\Debug\net8.0\visitaZoo.exe
+C:\AprendizadoComC-\visitaZoo\bin\Debug\net8.0\visitaZoo.deps.json
+C:\AprendizadoComC-\visitaZoo\bin\Debug\net8.0\visitaZoo.runtimeconfig.json
+C:\AprendizadoComC-\visitaZoo\bin\Debug\net8.0\visitaZoo.dll
+C:\AprendizadoComC-\visitaZoo\bin\Debug\net8.0\visitaZoo.pdb
+C:\AprendizadoComC-\visitaZoo\obj\Debug\net8.0\visitaZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\visitaZoo\obj\Debug\net8.0\visitaZoo.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\visitaZoo\obj\Debug\net8.0\visitaZoo.AssemblyInfo.cs
+C:\AprendizadoComC-\visitaZoo\obj\Debug\net8.0\visitaZoo.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\visitaZoo\obj\Debug\net8.0\visitaZoo.sourcelink.json
+C:\AprendizadoComC-\visitaZoo\obj\Debug\net8.0\visitaZoo.dll
+C:\AprendizadoComC-\visitaZoo\obj\Debug\net8.0\refint\visitaZoo.dll
+C:\AprendizadoComC-\visitaZoo\obj\Debug\net8.0\visitaZoo.pdb
+C:\AprendizadoComC-\visitaZoo\obj\Debug\net8.0\visitaZoo.genruntimeconfig.cache
+C:\AprendizadoComC-\visitaZoo\obj\Debug\net8.0\ref\visitaZoo.dll
