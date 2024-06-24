@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\debug01\bin\Debug\net8.0\debug01.exe
+C:\AprendizadoComC-\debug01\bin\Debug\net8.0\debug01.deps.json
+C:\AprendizadoComC-\debug01\bin\Debug\net8.0\debug01.runtimeconfig.json
+C:\AprendizadoComC-\debug01\bin\Debug\net8.0\debug01.dll
+C:\AprendizadoComC-\debug01\bin\Debug\net8.0\debug01.pdb
+C:\AprendizadoComC-\debug01\obj\Debug\net8.0\debug01.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\debug01\obj\Debug\net8.0\debug01.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\debug01\obj\Debug\net8.0\debug01.AssemblyInfo.cs
+C:\AprendizadoComC-\debug01\obj\Debug\net8.0\debug01.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\debug01\obj\Debug\net8.0\debug01.sourcelink.json
+C:\AprendizadoComC-\debug01\obj\Debug\net8.0\debug01.dll
+C:\AprendizadoComC-\debug01\obj\Debug\net8.0\refint\debug01.dll
+C:\AprendizadoComC-\debug01\obj\Debug\net8.0\debug01.pdb
+C:\AprendizadoComC-\debug01\obj\Debug\net8.0\debug01.genruntimeconfig.cache
+C:\AprendizadoComC-\debug01\obj\Debug\net8.0\ref\debug01.dll
