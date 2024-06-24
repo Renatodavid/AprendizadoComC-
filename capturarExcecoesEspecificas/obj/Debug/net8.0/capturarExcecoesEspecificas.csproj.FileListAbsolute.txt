@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\capturarExcecoesEspecificas\bin\Debug\net8.0\capturarExcecoesEspecificas.exe
+C:\AprendizadoComC-\capturarExcecoesEspecificas\bin\Debug\net8.0\capturarExcecoesEspecificas.deps.json
+C:\AprendizadoComC-\capturarExcecoesEspecificas\bin\Debug\net8.0\capturarExcecoesEspecificas.runtimeconfig.json
+C:\AprendizadoComC-\capturarExcecoesEspecificas\bin\Debug\net8.0\capturarExcecoesEspecificas.dll
+C:\AprendizadoComC-\capturarExcecoesEspecificas\bin\Debug\net8.0\capturarExcecoesEspecificas.pdb
+C:\AprendizadoComC-\capturarExcecoesEspecificas\obj\Debug\net8.0\capturarExcecoesEspecificas.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\capturarExcecoesEspecificas\obj\Debug\net8.0\capturarExcecoesEspecificas.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\capturarExcecoesEspecificas\obj\Debug\net8.0\capturarExcecoesEspecificas.AssemblyInfo.cs
+C:\AprendizadoComC-\capturarExcecoesEspecificas\obj\Debug\net8.0\capturarExcecoesEspecificas.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\capturarExcecoesEspecificas\obj\Debug\net8.0\capturarExcecoesEspecificas.sourcelink.json
+C:\AprendizadoComC-\capturarExcecoesEspecificas\obj\Debug\net8.0\capturarExcecoesEspecificas.dll
+C:\AprendizadoComC-\capturarExcecoesEspecificas\obj\Debug\net8.0\refint\capturarExcecoesEspecificas.dll
+C:\AprendizadoComC-\capturarExcecoesEspecificas\obj\Debug\net8.0\capturarExcecoesEspecificas.pdb
+C:\AprendizadoComC-\capturarExcecoesEspecificas\obj\Debug\net8.0\capturarExcecoesEspecificas.genruntimeconfig.cache
+C:\AprendizadoComC-\capturarExcecoesEspecificas\obj\Debug\net8.0\ref\capturarExcecoesEspecificas.dll
