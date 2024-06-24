@@ -1,0 +1,15 @@
+C:\AprendizadoComC-\CondicionaisEmC#\bin\Debug\net8.0\CondicionaisEmC#.exe
+C:\AprendizadoComC-\CondicionaisEmC#\bin\Debug\net8.0\CondicionaisEmC#.deps.json
+C:\AprendizadoComC-\CondicionaisEmC#\bin\Debug\net8.0\CondicionaisEmC#.runtimeconfig.json
+C:\AprendizadoComC-\CondicionaisEmC#\bin\Debug\net8.0\CondicionaisEmC#.dll
+C:\AprendizadoComC-\CondicionaisEmC#\bin\Debug\net8.0\CondicionaisEmC#.pdb
+C:\AprendizadoComC-\CondicionaisEmC#\obj\Debug\net8.0\CondicionaisEmC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendizadoComC-\CondicionaisEmC#\obj\Debug\net8.0\CondicionaisEmC#.AssemblyInfoInputs.cache
+C:\AprendizadoComC-\CondicionaisEmC#\obj\Debug\net8.0\CondicionaisEmC#.AssemblyInfo.cs
+C:\AprendizadoComC-\CondicionaisEmC#\obj\Debug\net8.0\CondicionaisEmC#.csproj.CoreCompileInputs.cache
+C:\AprendizadoComC-\CondicionaisEmC#\obj\Debug\net8.0\CondicionaisEmC#.sourcelink.json
+C:\AprendizadoComC-\CondicionaisEmC#\obj\Debug\net8.0\CondicionaisEmC#.dll
+C:\AprendizadoComC-\CondicionaisEmC#\obj\Debug\net8.0\refint\CondicionaisEmC#.dll
+C:\AprendizadoComC-\CondicionaisEmC#\obj\Debug\net8.0\CondicionaisEmC#.pdb
+C:\AprendizadoComC-\CondicionaisEmC#\obj\Debug\net8.0\CondicionaisEmC#.genruntimeconfig.cache
+C:\AprendizadoComC-\CondicionaisEmC#\obj\Debug\net8.0\ref\CondicionaisEmC#.dll
